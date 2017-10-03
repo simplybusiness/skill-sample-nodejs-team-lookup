@@ -14,7 +14,7 @@
   "author": "Amazon.com",
   "license": "Apache-2.0",
   "dependencies": {
-    "alexa-sdk": "^1.0.0",
+    "alexa-sdk": "^1.0.14",
     "voice-insights-sdk": "^1.2.2"
   }
 }
